@@ -20,7 +20,7 @@ global.timezone= process.env.TZ || process.env.TIME_ZONE || "Asia/Karachi";
 global.github=process.env.GITHUB|| "https://github.com/SuhailTechInfo/Suhail-Md";
 global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029Va9thusJP20yWxQ6N643";
 global.website=process.env.GURL || "https://whatsapp.com/channel/0029Va9thusJP20yWxQ6N643" ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://github.com/SuhailTechInfo/Suhail-Md/blob/main/lib/assets/suhail.jpg?raw=true" ; // SET LOGO FOR IMAGE 
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://github.com/SuhailTechInfo/Suhail-Md/blob/main/lib/assets/suhail.jpg?raw=true" ; /https://www.google.com/search?client=ms-android-vivo&sca_esv=87931902054ff09b&q=luffy&uds=ADvngMjN1B8mlGb1FmkljlE7WMrlNwDKh5wymyN2KUtDrMj54sp33rhsE0aD8NzDDvYHJ4oRz0C1PDxz4CnICATnQefSxrs44lY_j-wgb-XYvIrNL1wq7sG_sIpFo_hBJJArvgp-QtCmJZPjIR-6itzPmi6U-9At0uA2eKc3ieSKrD9hhEUMkKeLSG0RGQCTGj4xFaZuR1mA5Ag8o0-vidmDPuOOAFMumWGqLFtVWLg5_HVNK3IH3EVQXgXX8TRsELYXjEXakwPzVyngHGDY_NkfqJ7W-UPMfK91qV3cMonvLH_kg_oQZmI&udm=2&prmd=ivsnmbtz&sa=X&ved=2ahUKEwj2gtLm67mGAxWA-DgGHRrcNsgQtKgLegQIDhAB#vhid=ulodGFbIYcORSM&vssid=mosaic/ SET LOGO FOR IMAGE 
 global.caption = process.env.CAPTION || global.caption || "ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʜʏᴘᴇʀ sᴛᴏʀᴇ" 
 
 
